@@ -1,6 +1,7 @@
 # ecrawler
 Web Crawler
 
+Note for dev: `pip install beautifulsoup4`
 
 A crawler is a program that starts with a url on the web (ex: http://python.org),
 fetches the web-page corresponding to that url, 
